@@ -1,0 +1,16 @@
+{
+    "home": [
+        {
+            "title": "Dining",
+            "img": "https://robynainsley21.github.io/images/furniture-react/Mask Group.png"
+        },
+        {
+            "title": "Living",
+            "img": "https://robynainsley21.github.io/images/furniture-react/Image-living room.png"
+        },
+        {
+            "title": "Bedroom",
+            "img": "https://robynainsley21.github.io/images/furniture-react/Mask Group (1).png"
+        }
+    ]
+}
