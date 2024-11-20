@@ -74,5 +74,31 @@
             "price": 500000
         }
         
+    ],
+    "carousel": [
+        {
+            "img": "https://robynainsley21.github.io/images/furniture-react/Rectangle 24.png",
+            "title": "Couch"
+        },
+        {
+            "img": "https://robynainsley21.github.io/images/furniture-react/Rectangle 24.png",
+            "title": "Couch"
+        },
+        {
+            "img": "https://robynainsley21.github.io/images/furniture-react/Rectangle 24.png",
+            "title": "Couch"
+        },
+        {
+            "img": "https://robynainsley21.github.io/images/furniture-react/Rectangle 24.png",
+            "title": "Couch"
+        },
+        {
+            "img": "https://robynainsley21.github.io/images/furniture-react/Rectangle 24.png",
+            "title": "Couch"
+        },
+        {
+            "img": "https://robynainsley21.github.io/images/furniture-react/Rectangle 24.png",
+            "title": "Couch"
+        }
     ]
 }
